@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(1, 200, 100, 0.5);
+  color: rgba(220, 10, 60, 0.8);
+  text-align: center;
+}
+#login {
+  margin-top: 3%;
+  margin-left: 45%;
+  height: 100%;
+}
+#login form {
+  width: 15%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fafafa;
+}
+#login input {
+  box-shadow: 20px;
+}
